@@ -1,3 +1,3 @@
 def get_int(str):
-    i = int(input(str))
-    return i
+    i = input(str)
+    return int(i)
